@@ -10,7 +10,11 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Media;
 
-//
+/// <summary>
+/// Conner
+/// Oct 2016
+/// Greeting card summative
+/// </summary>
 
 namespace FirstSummative
 {
